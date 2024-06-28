@@ -6,7 +6,7 @@
 - The best way to reach me is via my personal email: derekf711@gmail.com
 
 ### Projects
-My new game [The Drawnjuring](https://store.steampowered.com/app/3048510/The_Drawnjuring/) will be available for puchase starting September 1st, 2024.
+My latest project, [The Drawnjuring](https://store.steampowered.com/app/3048510/The_Drawnjuring/), will be available for puchase starting September 1st, 2024.
 
 Feel free to follow our team, [We Need Weevils](https://linktr.ee/WeNeedWeevils), for updates.
 <!---
